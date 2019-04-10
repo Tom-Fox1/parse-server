@@ -1,4 +1,6 @@
-![Parse Server logo](https://github.com/parse-community/parse-server/raw/master/.github/parse-server-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tom-Fox1/parse-server/patch-1/v3.png">
+</p>
 
 [![Backers on Open Collective](https://opencollective.com/parse-server/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/parse-server/sponsors/badge.svg)](#sponsors)
 [![Build Status](https://img.shields.io/travis/parse-community/parse-server/master.svg?style=flat)](https://travis-ci.org/parse-community/parse-server)
